@@ -1,2 +1,2 @@
 # Every-day-hot-message
-每天热点新闻，由AI维护
+每天待做清单，有TraeSolo维护
